@@ -6,15 +6,8 @@ export default function Impressum() {
         <meta name="description" content="Impressum der Nawarat Thaimassage in Lippstadt." />
       </head>
 
-      <main
-        className="container mx-auto py-6 px-50"
-        style={{
-          fontFamily: '"tahoma", "Times New Roman", verdana, helvetica, arial, sans-serif',
-          fontSize: '14px',
-          color: '#743a1a',
-        }}
-      >
-        {/* Titel */}
+      <main className="container mx-auto py-6 px-50" style={{ fontFamily: '"tahoma", "Times New Roman", verdana, helvetica, arial, sans-serif', fontSize: '14px', color: '#743a1a',}}>
+        
         <div className="text-2xl font-bold mb-4">Impressum</div>
 
         <div className="space-y-4">
